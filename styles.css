@@ -5,12 +5,12 @@ body {
 
 header {
   background-color: red;
-  color: white;
   padding: 20px;
   text-align: left;
 }
 
 h1 {
+  color: white;
   margin: 0;
 }
 
