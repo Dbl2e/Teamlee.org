@@ -1,6 +1,5 @@
 body {
   background-color: darkred;
-  color: white;
   font-family: Arial, sans-serif;
 }
 
@@ -16,5 +15,7 @@ h1 {
 
 .content {
   padding: 20px;
+  background-color: darkred;
+  color: white;
   text-align: center;
 }
