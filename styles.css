@@ -19,3 +19,12 @@ h1 {
   color: white;
   text-align: center;
 }
+footer {
+  background-color: black;
+  padding: 20px;
+  text-align: left;
+}
+.link {
+  text-decoration: underline; /* Adds an underline to the link */
+  color: blue; /* Sets the color of the link text */
+}
