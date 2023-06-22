@@ -17,10 +17,9 @@ h3 {
   color: white;
   margin: 0;
 }
-.contact {
+.wtext {
   color: white;
   margin: 0;
-  min-height: 75px;
 }
 
 .content {
@@ -33,6 +32,7 @@ footer {
   background-color: black;
   padding: 20px;
   text-align: left;
+  min-height: 200px;
 }
 .link {
   text-decoration: underline; /* Adds an underline to the link */
