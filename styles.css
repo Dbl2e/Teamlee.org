@@ -21,20 +21,18 @@ a {
   color: white;
   margin: 0;
 }
-p {
-  color: white;
-  margin: 0;
-}
+
 .content {
   padding: 20px;
   color: white;
   text-align: center;
-  min-height: 500px;
+  min-height: 150px;
 }
 footer {
   background-color: black;
   padding: 20px;
   text-align: left;
+  min-height: 500px;
 }
 .link {
   text-decoration: underline; /* Adds an underline to the link */
